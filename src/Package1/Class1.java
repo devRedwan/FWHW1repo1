@@ -2,7 +2,7 @@ package Package1;
 
 public class Class1 {
 
-	
+	// FWHW1repo1
 
 	String[] x = new String[5];
 	x[0] = "Extra";
@@ -15,16 +15,15 @@ public class Class1 {
 		System.out.print(x[y]+" ");
 	}
 
-	int [] a = new int [5];
+	int [] a = new int [4];
 	a[0] = 89;
 	a[1] = 456;
 	a[2] = 198;
 	a[3] = 200;
-	a[4] = 465;
+	
 	
 	for (int b=0;b<a.length;b=b+2){
 		System.out.print(a[b]+" ");
 	}
 }
-	
 }
